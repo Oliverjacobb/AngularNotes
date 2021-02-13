@@ -1,0 +1,12 @@
+.notes-list-card {
+    max-width: 300px;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.addNoteButton {
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
+}
